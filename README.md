@@ -2,20 +2,17 @@
 
 A quick guide through the resources needed to face deeplearning. As reviewd in [here](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/).
 
-## Main types of ML
+Check out Framewrok to view a more in depth introduction.
 
-1. Supervised learning (data with labels)
+## The Tech Stack to Explore
 
-  * Classification (binary or multiclass)
-  * Regression (predicting a number)
+I prefer experimenting with Jupyter notebooks via VScode. In this way, you only worry about setting up a Python virtual environment and installing the needed dependencies. 
 
-2. Unsupervised learning (data with no labels)
+However, the key here is to know your own setup and understand the source of the power you are getting via GPUs provided. Kaggle Notebooks and Google Collabs work best. 
 
-3. Transfer learning (after deeplearning)
+1. Pandas: Important for data visualization and exploratory data analysis (EDA)
+2. Numpy: 
+3. Matplotlib: To visualize data via plots 
+4. Scikit Learn: The most used machine learning library
 
-  * Existing models applied to different problems
-
-4. Reinforcement learning (after deeplearning)
-
-  * Teaching machines via 'rewards' and 'punishments'
-
+Review the included notebooks to get familiar with the basic stack you need to know to get into ML. 
