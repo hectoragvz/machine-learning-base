@@ -14,5 +14,9 @@ However, the key here is to know your own setup and understand the source of the
 2. Numpy: The backbone of all kinds of scientific and numerical computing in Python
 3. Matplotlib: To visualize data via plots 
 4. Scikit Learn: The most used machine learning library
+  * Built on Numpy and Matplotlib
+  * Many built-in ML models
+  * Evaluation methods included
+  * Trusted API
 
 Review the included notebooks to get familiar with the basic stack you need to know to get into ML. 
