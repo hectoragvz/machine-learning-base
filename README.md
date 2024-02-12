@@ -20,3 +20,7 @@ However, the key here is to know your own setup and understand the source of the
   * Trusted API
 
 Review the included notebooks to get familiar with the basic stack you need to know to get into ML. 
+
+The included project-notebooks cover a workflow along both classification and regression problems. However, these are treating structured data, as the tools covered in this notebook combine to fill complete end-to-end analysis.
+
+For unstructured data, refer to deep learning material and use this notebook to review the toolkit when needed (Pandas, numpy, matplotlib, scikit-learn).
